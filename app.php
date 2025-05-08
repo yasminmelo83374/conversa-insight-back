@@ -1,0 +1,1 @@
+<?php echo 'Laravel Bootstrap App'; ?>

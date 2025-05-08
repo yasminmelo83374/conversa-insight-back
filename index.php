@@ -1,1 +1,1 @@
-<?php echo 'Laravel Entrypoint Placeholder'; ?>
+<?php echo 'Laravel Public Entry'; ?>
